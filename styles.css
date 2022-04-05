@@ -1,0 +1,33 @@
+.col{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+.pisa{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+.water{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+.ul {
+    list-style: none;
+    padding: 0%;
+    margin: 0%;
+    margin-bottom: 3%;
+}
+
+
+
