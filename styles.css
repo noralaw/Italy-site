@@ -29,5 +29,9 @@
     margin-bottom: 3%;
 }
 
-
+div {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
 
